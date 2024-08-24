@@ -13,7 +13,7 @@ HTML: index.html
 CSS: styles.css
 JavaScript: script.js
 
-## Visit Link :[]
+## Visit Link :[https://angalaparamesh.github.io/Textarea-Character-Count/]
 
 ## Contributing
 If you have suggestions or improvements, feel free to fork the repository and create a pull request.
